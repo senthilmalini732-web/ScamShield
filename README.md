@@ -1,4 +1,5 @@
 \# 🛡️ ScamShield – Scam Message Detector
+🌐 Live Demo: https://scamshield-v4wwq5vtciijvzearwwaiw.streamlit.app/
 
 
 
